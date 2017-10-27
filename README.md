@@ -3,7 +3,7 @@ If you are already familiar with the programming language like python, then I re
 To learn more I recommend you to check out https://learnrubythehardway.org/book.
 
 ## How to Run
-In terminal type ruby QuickStart.rb
+In terminal type <b>ruby QuickStart.rb</b>.
 
 ## Code
 ```rb
