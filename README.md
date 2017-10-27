@@ -6,7 +6,7 @@ To learn more I recommend you to check out https://learnrubythehardway.org/book.
 In terminal type ruby QuickStart.rb
 
 ## Code
-```
+```rb
 #   
 #   Basics of Ruby!
 #   - @rahulmfg
